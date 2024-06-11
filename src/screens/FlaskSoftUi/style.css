@@ -1,0 +1,1610 @@
+.flask-soft-ui {
+  background-color: #f8f9fa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.flask-soft-ui .div-13 {
+  background-color: #f8f9fa;
+  height: 786.76px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.flask-soft-ui .overlap-23 {
+  height: 770px;
+  left: 286px;
+  position: absolute;
+  top: 0;
+  width: 1514px;
+}
+
+.flask-soft-ui .overlap-24 {
+  height: 770px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1514px;
+}
+
+.flask-soft-ui .main {
+  align-items: center;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 686px;
+  left: 0;
+  max-height: 770px;
+  position: absolute;
+  top: 0;
+  width: 1166px;
+}
+
+.flask-soft-ui .div-container-fluid {
+  height: 862px;
+  margin-bottom: -176px;
+  position: relative;
+  width: 1166px;
+}
+
+.flask-soft-ui .div-row {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  left: 12px;
+  padding: 0px 0.01px 0px 0px;
+  position: absolute;
+  top: 129px;
+  width: 1142px;
+}
+
+.flask-soft-ui .div-col-lg {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 1142px;
+  padding: 0px 12px;
+  position: relative;
+  width: 666.16px;
+}
+
+.flask-soft-ui .div-card {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 20px 27px #0000000d;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 4px;
+  position: relative;
+  width: 642.16px;
+}
+
+.flask-soft-ui .div-row-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 52.85px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .div-d-flex-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 634.16px;
+  padding: 0px 12px;
+  position: relative;
+  width: 317.08px;
+}
+
+.flask-soft-ui .div-d-flex {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  width: 293.08px;
+}
+
+.flask-soft-ui .p-mb-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 8px 145.08px 4px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .text-wrapper-40 {
+  color: #67748e;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: -39px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .heading-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 112.08px 7.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .heading-soft-UI {
+  color: #344767;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  margin-right: -71px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .p-mb-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .p-mb {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 2.08px 0px 0px;
+  position: relative;
+  width: 293.08px;
+}
+
+.flask-soft-ui .from-colors-cards {
+  color: #67748e;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.flask-soft-ui .div-bg-gradient-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 634.16px;
+  padding: 0px 12px 0px 12px;
+  position: relative;
+  width: 264.23px;
+}
+
+.flask-soft-ui .div-bg-gradient {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(121, 40, 202) 0%, rgb(255, 0, 128) 100%);
+  border-radius: 12px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 19.48px 0px 19.47px;
+  position: relative;
+  width: 240.23px;
+}
+
+.flask-soft-ui .waves-white-svg {
+  height: 253px;
+  left: 0;
+  position: absolute;
+  top: -16px;
+  width: 321px;
+}
+
+.flask-soft-ui .rocket-white-png {
+  background-image: url(../../../static/img/rocket-white-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 182.05px;
+  position: relative;
+  width: 240.23px;
+}
+
+.flask-soft-ui .div-card-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 1142px;
+  padding: 0px 12px;
+  position: relative;
+  width: 475.83px;
+}
+
+.flask-soft-ui .div-overflow-hidden-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 20px 27px #0000000d;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px;
+  position: relative;
+  width: 451.83px;
+}
+
+.flask-soft-ui .div-overflow-hidden {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../../../static/img/div-overflow-hidden.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .span-mask {
+  background: linear-gradient(180deg, rgb(20, 23, 39) 0%, rgb(58, 65, 111) 100%);
+  height: 221px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 420px;
+}
+
+.flask-soft-ui .div-card-body {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  position: relative;
+  width: 419.83px;
+}
+
+.flask-soft-ui .heading-work-with-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 8px 164.83px 23.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .heading-work-with {
+  color: #ffffff;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 57px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  margin-right: -164.83px;
+  margin-top: -1px;
+  position: relative;
+  width: 387.83px;
+}
+
+.flask-soft-ui .p-text-white-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .p-text-white {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 6.83px 0px 0px;
+  position: relative;
+  width: 387.83px;
+}
+
+.flask-soft-ui .wealth-creation-is {
+  color: #ffffff;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.flask-soft-ui .link-margin {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  margin-bottom: -29px;
+  min-height: 35.5px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .div-col-lg-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 229px;
+  left: 12px;
+  max-width: 1142px;
+  padding: 0px 12px;
+  position: absolute;
+  top: 420px;
+  width: 364px;
+}
+
+.flask-soft-ui .div-row-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 20px 27px #0000000d;
+  display: flex;
+  flex-direction: column;
+  height: 229px;
+  margin-right: -24px;
+  padding: 16px 4px;
+  position: relative;
+  width: 364px;
+}
+
+.flask-soft-ui .div-col-lg-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 52.85px 0px;
+  position: relative;
+  width: 318px;
+}
+
+.flask-soft-ui .heading-soft-UI-2 {
+  color: #344767;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  margin-left: -0.46px;
+  margin-right: -112.54px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.flask-soft-ui .p-mb-margin-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 85px;
+  margin-right: -0.92px;
+  padding: 0px 0px 48px;
+  position: relative;
+  width: 294px;
+}
+
+.flask-soft-ui .from-colors-cards-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -41px;
+  padding: 0px 2.08px 0px 0px;
+  position: relative;
+  width: 293.08px;
+}
+
+.flask-soft-ui .button {
+  all: unset;
+  align-items: center;
+  background: linear-gradient(180deg, rgb(121, 40, 202) 0%, rgb(255, 0, 128) 100%);
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px -1px #00000012, 0px 4px 7px -1px #0000001c;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 32px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 13px 29.27px 13px 29.73px;
+  position: relative;
+  width: 124px;
+}
+
+.flask-soft-ui .go-to-app {
+  color: #ffffff;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: -0.4px;
+  line-height: 16.8px;
+  margin-bottom: -4.5px;
+  margin-top: -6.5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .div-col-lg-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 229px;
+  left: 395px;
+  max-width: 1142px;
+  padding: 0px 12px;
+  position: absolute;
+  top: 420px;
+  width: 364px;
+}
+
+.flask-soft-ui .div-col-lg-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 229px;
+  left: 778px;
+  max-width: 1142px;
+  padding: 0px 12px;
+  position: absolute;
+  top: 420px;
+  width: 364px;
+}
+
+.flask-soft-ui .footer {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  justify-content: space-between;
+  left: 36px;
+  position: absolute;
+  top: 1430px;
+  width: 1094px;
+}
+
+.flask-soft-ui .div-col-lg-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 1094px;
+  padding: 0px 12px;
+  position: relative;
+  width: 547px;
+}
+
+.flask-soft-ui .div-copyright {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 292px 0px 0px;
+  position: relative;
+  width: 523px;
+}
+
+.flask-soft-ui .creative-tim-coded {
+  color: #67748e;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .span {
+  letter-spacing: 0;
+}
+
+.flask-soft-ui .text-wrapper-41 {
+  letter-spacing: -0.4px;
+}
+
+.flask-soft-ui .list {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 7.63e-6px 0px;
+  justify-content: flex-end;
+  padding: 0px 0px 0px 354.12px;
+  position: relative;
+  width: 523px;
+}
+
+.flask-soft-ui .item-link {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 14.73px 3.9px 16px;
+  position: relative;
+}
+
+.flask-soft-ui .text-wrapper-42 {
+  color: #67748e;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .item-link-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 15.15px 3.9px 16px;
+  position: relative;
+}
+
+.flask-soft-ui .overlap-25 {
+  height: 58px;
+  left: 12px;
+  position: absolute;
+  top: 43px;
+  width: 735px;
+}
+
+.flask-soft-ui .item-margin {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 2px 16px 0px;
+  position: absolute;
+  top: 2px;
+  width: 250px;
+}
+
+.flask-soft-ui .item-link-3 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 20px 27px #0000000d;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  padding: 10.8px 86px 10.8px 16px;
+  position: relative;
+  width: 218px;
+}
+
+.flask-soft-ui .HPLC {
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 33px;
+}
+
+.flask-soft-ui .div-wrapper-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.flask-soft-ui .text-wrapper-43 {
+  color: #344767;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.4px;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .item-link-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 246px;
+  padding: 2px 16px 0px;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.flask-soft-ui .img-3 {
+  height: 32px;
+  object-fit: cover;
+  position: relative;
+  width: 32px;
+}
+
+.flask-soft-ui .item-margin-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 485px;
+  padding: 2px 16px 0px;
+  position: absolute;
+  top: 2px;
+  width: 250px;
+}
+
+.flask-soft-ui .nav {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 28px;
+  padding: 4px 16px 4px 16px;
+  position: absolute;
+  top: 688px;
+  width: 1118px;
+}
+
+.flask-soft-ui .nav-breadcrumb {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 64px 0px 0px;
+  position: relative;
+}
+
+.flask-soft-ui .ordered-list {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: -0.66px 0px;
+  padding: 4px 0px 0px;
+  position: relative;
+}
+
+.flask-soft-ui .link-pages {
+  color: #344767;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 21px;
+  margin-top: -1px;
+  opacity: 0.5;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .item {
+  height: 21px;
+  margin-left: -0.66px;
+  position: relative;
+  width: 40.89px;
+}
+
+.flask-soft-ui .text-wrapper-44 {
+  color: #6c757d;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 21px;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.flask-soft-ui .symbol {
+  color: #344767;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 14px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.flask-soft-ui .div-navbar {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 0px 1.53e-5px 0px 554px;
+  position: relative;
+}
+
+.flask-soft-ui .div-ms-md-auto {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 16px 0px 0px;
+  position: relative;
+}
+
+.flask-soft-ui .div-input-group {
+  align-items: center;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: -1px 0px;
+  padding: 0px 1px 0px 0px;
+  position: relative;
+}
+
+.flask-soft-ui .span-input-group {
+  align-items: center;
+  background-color: #ffffff;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #d2d6da;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-radius: 8px 0px 0px 8px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 13.7px 10px 12.7px 11px;
+  position: relative;
+  z-index: 1;
+}
+
+.flask-soft-ui .symbol-2 {
+  color: #67748e;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .input {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #d2d6da;
+  border-radius: 0px 8px 8px 0px;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -1px;
+  margin-right: -1px;
+  padding: 9.5px 12px 9.9px 0px;
+  position: relative;
+  z-index: 0;
+}
+
+.flask-soft-ui .pseudo {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 19px;
+  padding: 0px 81.5px 0px 0px;
+  position: relative;
+  width: 157.5px;
+}
+
+.flask-soft-ui .text-wrapper-45 {
+  color: #adb5bd;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.flask-soft-ui .list-2 {
+  height: 38.4px;
+  position: relative;
+  width: 170.27px;
+}
+
+.flask-soft-ui .item-link-4 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.flask-soft-ui .symbol-3 {
+  color: #67748e;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 14px;
+  left: 0;
+  letter-spacing: -0.4px;
+  line-height: 14px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.flask-soft-ui .text-wrapper-46 {
+  color: #67748e;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 23px;
+  left: 19px;
+  letter-spacing: -0.4px;
+  line-height: 22.4px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.flask-soft-ui .overlap-group-8 {
+  height: 38px;
+  left: 75px;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.flask-soft-ui .symbol-wrapper {
+  align-items: center;
+  display: inline-flex;
+  left: 0;
+  padding: 13px 16px 11.4px;
+  position: absolute;
+  top: 0;
+}
+
+.flask-soft-ui .symbol-4 {
+  color: #67748e;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .item-2 {
+  align-items: center;
+  display: inline-flex;
+  left: 46px;
+  padding: 13px 14.85px 11.4px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.flask-soft-ui .item-3 {
+  align-items: center;
+  display: inline-flex;
+  left: 148px;
+  padding: 13px 8px 11.4px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.flask-soft-ui .symbol-5 {
+  color: #67748e;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .div-card-2 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  box-shadow: 0px 8px 9px -5px #1414140f, 0px 8px 26px -4px #14141426;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 1154px;
+  padding: 0px 10px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.flask-soft-ui .div-card-header {
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 16px 16px 0px 0px;
+  height: 101.5px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .div-float-start {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 24px;
+  padding: 16px 0px;
+  position: absolute;
+  top: 16px;
+  width: 206px;
+}
+
+.flask-soft-ui .heading-soft-UI-3 {
+  color: #344767;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .text-wrapper-47 {
+  color: #67748e;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: -0.64px;
+  margin-top: -0.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .symbol-6 {
+  color: #344767;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 12px;
+  left: 308px;
+  letter-spacing: -0.4px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.flask-soft-ui .separator {
+  align-self: stretch;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0) 100%);
+  height: 1px;
+  opacity: 0.25;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .div-card-body-2 {
+  align-self: stretch;
+  height: 659.5px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .heading-sidebar {
+  color: #344767;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 26px;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.flask-soft-ui .link {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8.8px;
+  left: 24px;
+  padding: 0px 106.65px 6.59px 0px;
+  position: absolute;
+  top: 50px;
+}
+
+.flask-soft-ui .span-badge {
+  background: linear-gradient(180deg, rgb(121, 40, 202) 0%, rgb(255, 0, 128) 100%);
+  border: 1px solid;
+  border-color: #344767;
+  border-radius: 11.65px;
+  height: 23px;
+  position: relative;
+  width: 23.59px;
+}
+
+.flask-soft-ui .span-badge-2 {
+  background: linear-gradient(180deg, rgb(20, 23, 39) 0%, rgb(58, 65, 111) 100%);
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 11.65px;
+  height: 23px;
+  position: relative;
+  width: 23.59px;
+}
+
+.flask-soft-ui .span-badge-3 {
+  background: linear-gradient(180deg, rgb(33, 82, 255) 0%, rgb(33, 212, 253) 100%);
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 11.65px;
+  height: 23px;
+  position: relative;
+  width: 23.59px;
+}
+
+.flask-soft-ui .span-badge-4 {
+  background: linear-gradient(180deg, rgb(23, 173, 55) 0%, rgb(152, 236, 45) 100%);
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 11.65px;
+  height: 23px;
+  position: relative;
+  width: 23.59px;
+}
+
+.flask-soft-ui .span-badge-5 {
+  background: linear-gradient(180deg, rgb(245, 57, 57) 0%, rgb(251, 207, 51) 100%);
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 11.65px;
+  height: 23px;
+  position: relative;
+  width: 23.59px;
+}
+
+.flask-soft-ui .span-badge-6 {
+  background: linear-gradient(180deg, rgb(234, 6, 6) 0%, rgb(255, 102, 124) 100%);
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 11.65px;
+  height: 23px;
+  position: relative;
+  width: 23.59px;
+}
+
+.flask-soft-ui .div-mt {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 24px;
+  padding: 0px 15px 0px 0px;
+  position: absolute;
+  top: 96px;
+  width: 292px;
+}
+
+.flask-soft-ui .heading-sidenav {
+  color: #344767;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .text-wrapper-48 {
+  color: #67748e;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .div-d-flex-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  left: 24px;
+  padding: 0px 0px 7.8px;
+  position: absolute;
+  top: 159px;
+  width: 292px;
+}
+
+.flask-soft-ui .transparent-wrapper {
+  all: unset;
+  align-items: center;
+  background: linear-gradient(180deg, rgb(121, 40, 202) 0%, rgb(255, 0, 128) 100%);
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px -1px #00000012, 0px 4px 7px -1px #0000001c;
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  overflow: hidden;
+  padding: 13px 29.27px 13px 29.73px;
+  position: relative;
+}
+
+.flask-soft-ui .transparent {
+  color: #ffffff;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: -0.4px;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .white-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #ffffff01;
+  border: 1px solid;
+  border-color: #cb0c9f;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px -1px #00000012, 0px 4px 7px -1px #0000001c;
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  overflow: hidden;
+  padding: 13px 52.29px 13px 52.71px;
+  position: relative;
+}
+
+.flask-soft-ui .white {
+  color: #cb0c9f;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: -0.4px;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .heading-navbar {
+  color: #344767;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  height: 26px;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 224px;
+  white-space: nowrap;
+}
+
+.flask-soft-ui .pseudo-wrapper {
+  background-color: #3a416ff2;
+  border: 1px solid;
+  border-radius: 40px;
+  height: 20px;
+  left: 24px;
+  position: absolute;
+  top: 255px;
+  width: 40px;
+}
+
+.flask-soft-ui .pseudo-2 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 5px 10px #0000001f;
+  height: 16px;
+  left: 22px;
+  position: relative;
+  top: 2px;
+  width: 16px;
+}
+
+.flask-soft-ui .separator-2 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0) 100%);
+  height: 1px;
+  left: 24px;
+  opacity: 0.25;
+  position: absolute;
+  top: 299px;
+  width: 292px;
+}
+
+.flask-soft-ui .download-wrapper {
+  align-items: center;
+  border: 1px solid;
+  border-color: #344767;
+  border-radius: 8px;
+  display: inline-flex;
+  left: 24px;
+  padding: 13px 110.3px 13px 110.7px;
+  position: absolute;
+  top: 324px;
+}
+
+.flask-soft-ui .download {
+  color: #344767;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: -0.4px;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .link-2 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 25.9px;
+  box-shadow: 0px 2px 12px #00000029;
+  display: flex;
+  flex-direction: column;
+  left: 1072px;
+  padding: 16px 15.6px 16px 16px;
+  position: absolute;
+  top: 688px;
+  width: 52px;
+}
+
+.flask-soft-ui .symbol-7 {
+  color: #344767;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .aside {
+  border-radius: 16px;
+  height: 738px;
+  left: 36px;
+  overflow: hidden;
+  position: absolute;
+  top: 26px;
+  width: 250px;
+}
+
+.flask-soft-ui .div-14 {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.flask-soft-ui .logo-ct-dark-png {
+  background-image: url(../../../static/img/logo-ct-dark-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 32px;
+  left: 32px;
+  position: absolute;
+  top: 24px;
+  width: 32px;
+}
+
+.flask-soft-ui .text-wrapper-49 {
+  color: #344767;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  height: 23px;
+  left: 71px;
+  letter-spacing: -0.4px;
+  line-height: 22.4px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.flask-soft-ui .separator-3 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0) 100%);
+  height: 1px;
+  left: 0;
+  opacity: 0.25;
+  position: absolute;
+  top: 78px;
+  width: 250px;
+}
+
+.flask-soft-ui .div-sidenav-collapse {
+  height: 410px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 95px;
+  width: 250px;
+}
+
+.flask-soft-ui .list-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.flask-soft-ui .item-margin-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 16px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .div-icon {
+  height: 52px;
+  margin-bottom: -15px;
+  margin-left: -10px;
+  margin-top: -5px;
+  position: relative;
+  width: 52px;
+}
+
+.flask-soft-ui .item-heading-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 118px 8px 32px;
+  position: relative;
+  width: 100%;
+}
+
+.flask-soft-ui .item-heading {
+  color: #344767;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-top: -1px;
+  opacity: 0.6;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .item-link-5 {
+  height: 53.59px;
+  position: relative;
+  width: 218px;
+}
+
+.flask-soft-ui .div-icon-2 {
+  height: 52px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 52px;
+}
+
+.flask-soft-ui .span-nav-link-text {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 60px;
+  padding: 0.5px 1.41px 0px 0px;
+  position: absolute;
+  top: 16px;
+}
+
+.flask-soft-ui .text-wrapper-50 {
+  color: #67748e;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .span-nav-link-text-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 60px;
+  padding: 0.5px 1.93px 0px 0px;
+  position: absolute;
+  top: 16px;
+}
+
+.flask-soft-ui .div-sidenavcard {
+  background-color: #ffffff;
+  border-radius: 16px;
+  height: 164px;
+  left: 16px;
+  position: absolute;
+  top: 246px;
+  width: 218px;
+}
+
+.flask-soft-ui .overlap-group-9 {
+  background-image: url(../../../static/img/div-full-background.png);
+  background-size: 100% 100%;
+  height: 164px;
+  position: relative;
+}
+
+.flask-soft-ui .pseudo-3 {
+  background: linear-gradient(180deg, rgb(98, 117, 148) 0%, rgb(168, 184, 216) 100%);
+  border-radius: 16px;
+  height: 164px;
+  left: 0;
+  opacity: 0.65;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.flask-soft-ui .div-docs-info-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  padding: 16px;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.flask-soft-ui .div-docs-info {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 25.59px;
+  position: relative;
+  width: 186px;
+}
+
+.flask-soft-ui .heading-need-help {
+  color: #ffffff;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.flask-soft-ui .contact-support-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px -1px #00000012, 0px 4px 7px -1px #0000001c;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  padding: 8px 37.74px 8px 38.26px;
+  position: relative;
+}
+
+.flask-soft-ui .contact-support {
+  color: #000000;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: -0.4px;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

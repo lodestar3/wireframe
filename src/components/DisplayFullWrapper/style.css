@@ -1,0 +1,80 @@
+.display-full-wrapper {
+  align-items: center;
+  background-color: var(--lightconnectbuttonbackground);
+  border-radius: 14px;
+  box-shadow: 0px 4px 12px #0000001a;
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  position: relative;
+}
+
+.display-full-wrapper .text-wrapper {
+  color: var(--lightconnectbuttontext);
+  font-family: var(--16-16-bold-font-family);
+  font-size: var(--16-16-bold-font-size);
+  font-style: var(--16-16-bold-font-style);
+  font-weight: var(--16-16-bold-font-weight);
+  letter-spacing: var(--16-16-bold-letter-spacing);
+  line-height: var(--16-16-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.display-full-wrapper .account-info {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: var(--lightactionbuttonsecondarybackground);
+  border-radius: 13px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 36px;
+  padding: 8px;
+  position: relative;
+}
+
+.display-full-wrapper .avatar {
+  margin-bottom: -2px !important;
+  margin-top: -2px !important;
+  position: relative !important;
+}
+
+.display-full-wrapper .wallet-addy {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  margin-bottom: -2px;
+  margin-top: -2px;
+  position: relative;
+}
+
+.display-full-wrapper .img {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.display-full-wrapper .account-info-2 {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(20px) brightness(100%);
+  border-radius: 13px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  height: 36px;
+  padding: 8px;
+  position: relative;
+}
+
+.display-full-wrapper.full {
+  padding: 0px 2px 0px 12px;
+}
+
+.display-full-wrapper.no-balance {
+  padding: 0px 2px;
+}

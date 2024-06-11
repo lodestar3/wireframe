@@ -1,0 +1,309 @@
+.screen-3 {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen-3 .frame-4 {
+  height: 601px;
+  width: 1440px;
+}
+
+.screen-3 .group-14 {
+  height: 601px;
+}
+
+.screen-3 .overlap-10 {
+  height: 601px;
+  position: relative;
+  width: 1440px;
+}
+
+.screen-3 .div-8 {
+  height: 601px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.screen-3 .group-15 {
+  height: 601px;
+  width: 1442px;
+}
+
+.screen-3 .overlap-11 {
+  background-color: var(--background-2);
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.screen-3 .line-7 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 1440px;
+}
+
+.screen-3 .group-16 {
+  height: 21px;
+  left: 483px;
+  position: absolute;
+  top: 33px;
+  width: 375px;
+}
+
+.screen-3 .text-wrapper-21 {
+  color: #121212;
+  display: block;
+  font-family: var(--body-normal-font-family);
+  font-size: var(--body-normal-font-size);
+  font-style: var(--body-normal-font-style);
+  font-weight: var(--body-normal-font-weight);
+  left: 82px;
+  letter-spacing: var(--body-normal-letter-spacing);
+  line-height: var(--body-normal-line-height);
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.screen-3 .text-wrapper-22 {
+  color: #121212;
+  font-family: var(--body-normal-font-family);
+  font-size: var(--body-normal-font-size);
+  font-style: var(--body-normal-font-style);
+  font-weight: var(--body-normal-font-weight);
+  left: 295px;
+  letter-spacing: var(--body-normal-letter-spacing);
+  line-height: var(--body-normal-line-height);
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.screen-3 .group-17 {
+  display: block;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+
+.screen-3 .text-wrapper-23 {
+  color: #121212;
+  font-family: var(--body-normal-font-family);
+  font-size: var(--body-normal-font-size);
+  font-style: var(--body-normal-font-style);
+  font-weight: var(--body-normal-font-weight);
+  left: 0;
+  letter-spacing: var(--body-normal-letter-spacing);
+  line-height: var(--body-normal-line-height);
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.screen-3 .group-18 {
+  display: block;
+  height: 20px;
+  left: 174px;
+  position: absolute;
+  top: 0;
+  width: 97px;
+}
+
+.screen-3 .text-wrapper-24 {
+  color: #121212;
+  font-family: var(--body-normal-font-family);
+  font-size: var(--body-normal-font-size);
+  font-style: var(--body-normal-font-style);
+  font-weight: var(--body-normal-font-weight);
+  left: 0;
+  letter-spacing: var(--body-normal-letter-spacing);
+  line-height: var(--body-normal-line-height);
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.screen-3 .div-9 {
+  height: 42px;
+  left: 88px;
+  position: absolute;
+  top: 23px;
+  width: 154px;
+}
+
+.screen-3 .overlap-group-5 {
+  height: 16px;
+  left: 138px;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.screen-3 .vector-10 {
+  height: 9px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.screen-3 .vector-11 {
+  height: 3px;
+  left: 7px;
+  position: absolute;
+  top: 13px;
+  width: 8px;
+}
+
+.screen-3 .vector-12 {
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.screen-3 .text-wrapper-25 {
+  color: #000000;
+  font-family: var(--body-normal-font-family);
+  font-size: var(--body-normal-font-size);
+  font-style: var(--body-normal-font-style);
+  font-weight: var(--body-normal-font-weight);
+  left: 16px;
+  letter-spacing: var(--body-normal-letter-spacing);
+  line-height: var(--body-normal-line-height);
+  position: absolute;
+  top: 9px;
+  white-space: nowrap;
+  width: 115px;
+}
+
+.screen-3 .overlap-12 {
+  background-color: var(--background-2);
+  height: 516px;
+  left: 0;
+  position: absolute;
+  top: 85px;
+  width: 1440px;
+}
+
+.screen-3 .product-2 {
+  color: #000000;
+  font-family: var(--h2-heading-font-family);
+  font-size: var(--h2-heading-font-size);
+  font-style: var(--h2-heading-font-style);
+  font-weight: var(--h2-heading-font-weight);
+  left: 88px;
+  letter-spacing: var(--h2-heading-letter-spacing);
+  line-height: var(--h2-heading-line-height);
+  position: absolute;
+  top: 63px;
+  white-space: nowrap;
+}
+
+.screen-3 .clearspend-makes-2 {
+  color: #000000;
+  font-family: var(--body-normal-font-family);
+  font-size: var(--body-normal-font-size);
+  font-style: var(--body-normal-font-style);
+  font-weight: var(--body-normal-font-weight);
+  left: 88px;
+  letter-spacing: var(--body-normal-letter-spacing);
+  line-height: var(--body-normal-line-height);
+  position: absolute;
+  top: 126px;
+  width: 292px;
+}
+
+.screen-3 .text-wrapper-26 {
+  color: #000000;
+  font-family: var(--body-normal-font-family);
+  font-size: var(--body-normal-font-size);
+  font-style: var(--body-normal-font-style);
+  font-weight: var(--body-normal-font-weight);
+  left: 151px;
+  letter-spacing: var(--body-normal-letter-spacing);
+  line-height: var(--body-normal-line-height);
+  position: absolute;
+  top: 109px;
+  width: 176px;
+}
+
+.screen-3 .group-19 {
+  height: 20px;
+  left: 264px;
+  position: absolute;
+  top: 109px;
+  width: 218px;
+}
+
+.screen-3 .arrow-2 {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 18px;
+}
+
+.screen-3 .text-wrapper-27 {
+  color: #000000;
+  font-family: var(--body-normal-font-family);
+  font-size: var(--body-normal-font-size);
+  font-style: var(--body-normal-font-style);
+  font-weight: var(--body-normal-font-weight);
+  left: 40px;
+  letter-spacing: var(--body-normal-letter-spacing);
+  line-height: var(--body-normal-line-height);
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.screen-3 .connect-buttons-4 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: flex-end;
+  left: 1012px;
+  position: absolute;
+  top: 23px;
+}
+
+.screen-3 .design-component-instance-node-4 {
+  flex: 0 0 auto !important;
+}
+
+.screen-3 .network-ethereum-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.screen-3 .line-8 {
+  height: 3px;
+  left: 651px;
+  position: absolute;
+  top: 82px;
+  width: 106px;
+}
+
+.screen-3 .element-2 {
+  height: 415px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 165px;
+  width: 1180px;
+}

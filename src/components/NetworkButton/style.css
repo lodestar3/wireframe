@@ -1,0 +1,37 @@
+.network-button {
+  align-items: center;
+  background-color: var(--lightconnectbuttonbackground);
+  border-radius: 14px;
+  box-shadow: 0px 4px 12px #0000001a;
+  display: inline-flex;
+  gap: 8px;
+  padding: 8px;
+  position: relative;
+}
+
+.network-button .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  position: relative;
+}
+
+.network-button .ethereum {
+  color: var(--lightconnectbuttontext);
+  font-family: var(--16-16-bold-font-family);
+  font-size: var(--16-16-bold-font-size);
+  font-style: var(--16-16-bold-font-style);
+  font-weight: var(--16-16-bold-font-weight);
+  letter-spacing: var(--16-16-bold-letter-spacing);
+  line-height: var(--16-16-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.network-button .icon {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}

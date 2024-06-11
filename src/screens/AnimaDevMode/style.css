@@ -1,0 +1,535 @@
+.anima-dev-mode {
+  background-color: #2d2d2d;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.anima-dev-mode .div-15 {
+  background-color: #2d2d2d;
+  height: 658px;
+  position: relative;
+  width: 1280px;
+}
+
+.anima-dev-mode .content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 658px;
+  justify-content: space-between;
+  left: 143px;
+  padding: 143px 0px 167px;
+  position: absolute;
+  top: 0;
+  width: 361px;
+}
+
+.anima-dev-mode .anima-logo {
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.anima-dev-mode .text {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  margin-right: -17px;
+  position: relative;
+  width: 378px;
+}
+
+.anima-dev-mode .text-wrapper-51 {
+  color: #ffffff;
+  font-family: "Mulish-Bold", Helvetica;
+  font-size: 60px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-right: -43px;
+  margin-top: -1px;
+  position: relative;
+  width: 421px;
+}
+
+.anima-dev-mode .text-wrapper-52 {
+  color: #f8d57e;
+  font-family: "Mulish-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -46px;
+  position: relative;
+  width: 424px;
+}
+
+.anima-dev-mode .image-5 {
+  background-color: #f8d57e;
+  height: 658px;
+  left: 560px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 720px;
+}
+
+.anima-dev-mode .user-card {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  left: 38px;
+  overflow: hidden;
+  padding: 0px 0px 16px;
+  position: absolute;
+  top: 81px;
+  width: 240px;
+}
+
+.anima-dev-mode .user-thumbnail {
+  align-self: stretch;
+  background-image: url(../../../static/img/sebastian.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 200px;
+  position: relative;
+  width: 100%;
+}
+
+.anima-dev-mode .text-social-icons {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #d7d7d7;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 0px 16px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.anima-dev-mode .title-description {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 100%;
+}
+
+.anima-dev-mode .title {
+  align-self: stretch;
+  color: var(--neutral-900);
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.anima-dev-mode .description {
+  align-self: stretch;
+  color: #2d2d2d;
+  font-family: "Mulish-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: relative;
+  text-align: center;
+}
+
+.anima-dev-mode .primary-button {
+  all: unset;
+  align-items: center;
+  background-color: var(--primary-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  padding: 12px 20px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.anima-dev-mode .label {
+  color: var(--white-color);
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -3px;
+  margin-top: -5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.anima-dev-mode .icon-2 {
+  height: 20px;
+  margin-bottom: -2px;
+  margin-top: -2px;
+  position: relative;
+  width: 20px;
+}
+
+.anima-dev-mode .user-card-2 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  left: 38px;
+  padding: 16px;
+  position: absolute;
+  top: 504px;
+  width: 240px;
+}
+
+.anima-dev-mode .title-description-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.anima-dev-mode .user-name-thumbnail {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.anima-dev-mode .user-thumbnail-2 {
+  background-image: url(../../../static/img/laura.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 23.53px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.anima-dev-mode .user-name {
+  color: var(--neutral-900);
+  flex: 1;
+  font-family: "Mulish-ExtraBold", Helvetica;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  position: relative;
+}
+
+.anima-dev-mode .description-2 {
+  align-self: stretch;
+  color: #2d2d2d;
+  font-family: "Mulish-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: relative;
+}
+
+.anima-dev-mode .primary-button-2 {
+  all: unset;
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  padding: 12px 20px;
+  position: relative;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.anima-dev-mode .icon-3 {
+  height: 20px;
+  margin-bottom: -107px;
+  margin-right: -10117.5px;
+  position: relative;
+  width: 20px;
+}
+
+.anima-dev-mode .sarah-wrapper {
+  border-radius: 83.91px;
+  height: 143px;
+  left: 591px;
+  overflow: hidden;
+  position: absolute;
+  top: 705px;
+  width: 143px;
+}
+
+.anima-dev-mode .sarah {
+  height: 143px;
+  left: 9610px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 143px;
+}
+
+.anima-dev-mode .group-43 {
+  height: 44px;
+  left: 38px;
+  position: absolute;
+  top: 17px;
+  width: 239px;
+}
+
+.anima-dev-mode .user-thumbnail-3 {
+  background-image: url(../../../static/img/sebastian-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 25.79px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.anima-dev-mode .user-thumbnail-4 {
+  background-image: url(../../../static/img/alicia.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 25.79px;
+  height: 44px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.anima-dev-mode .user-thumbnail-5 {
+  background-image: url(../../../static/img/sarah-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 25.79px;
+  height: 44px;
+  left: 195px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.anima-dev-mode .user-thumbnail-6 {
+  background-image: url(../../../static/img/david.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 25.79px;
+  height: 44px;
+  left: 65px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.anima-dev-mode .image-6 {
+  height: 508px;
+  left: 298px;
+  position: absolute;
+  top: 129px;
+  width: 410px;
+}
+
+.anima-dev-mode .button-source {
+  height: 386px;
+  left: 303px;
+  position: absolute;
+  top: -279px;
+  width: 397px;
+}
+
+.anima-dev-mode .overlap-group-10 {
+  border-radius: 3px;
+  height: 388px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 399px;
+}
+
+.anima-dev-mode .primary-button-3 {
+  all: unset;
+  align-items: center;
+  background-color: var(--white-color);
+  border: 1px solid;
+  border-color: var(--grey-1-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  left: 46px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 321px;
+  transition: all 0.3s ease;
+}
+
+.anima-dev-mode .label-2 {
+  color: var(--grey-1-color);
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -3px;
+  margin-top: -5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.anima-dev-mode .primary-button-4 {
+  all: unset;
+  align-items: center;
+  background-color: var(--white-color);
+  border: 1px solid;
+  border-color: var(--secondary-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  left: 46px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 261px;
+  transition: all 0.3s ease;
+}
+
+.anima-dev-mode .label-3 {
+  color: var(--secondary-color);
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: -3px;
+  margin-top: -5px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.anima-dev-mode .icon-4 {
+  height: 11px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 20px;
+}
+
+.anima-dev-mode .primary-button-5 {
+  all: unset;
+  align-items: center;
+  background-color: var(--secondary-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  left: 222px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 321px;
+  transition: all 0.3s ease;
+}
+
+.anima-dev-mode .primary-button-6 {
+  all: unset;
+  align-items: center;
+  background-color: var(--primary-color);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: inline-flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  left: 222px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 261px;
+  transition: all 0.3s ease;
+}
+
+.anima-dev-mode .selection-bounds {
+  border: 1px dashed;
+  border-color: #9747ff;
+  border-radius: 3px;
+  height: 388px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 399px;
+}
+
+.anima-dev-mode .label-icon {
+  color: #9747ff;
+  font-family: var(--pos-UI-11-font-family);
+  font-size: var(--pos-UI-11-font-size);
+  font-style: var(--pos-UI-11-font-style);
+  font-weight: var(--pos-UI-11-font-weight);
+  left: -1px;
+  letter-spacing: var(--pos-UI-11-letter-spacing);
+  line-height: var(--pos-UI-11-line-height);
+  position: absolute;
+  top: -16px;
+  white-space: nowrap;
+}
+
+.anima-dev-mode .label-4 {
+  color: #9747ff;
+  font-family: var(--pos-UI-11-font-family);
+  font-size: var(--pos-UI-11-font-size);
+  font-style: var(--pos-UI-11-font-style);
+  font-weight: var(--pos-UI-11-font-weight);
+  left: 14px;
+  letter-spacing: var(--pos-UI-11-letter-spacing);
+  line-height: var(--pos-UI-11-line-height);
+  position: absolute;
+  top: -16px;
+  white-space: nowrap;
+}

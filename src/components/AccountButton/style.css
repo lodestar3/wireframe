@@ -1,0 +1,7 @@
+.account-button {
+  background-image: url(../../../static/img/avatar.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  width: 24px;
+}
